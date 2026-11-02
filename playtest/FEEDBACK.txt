@@ -1,0 +1,136 @@
+==========================================================
+ STATION TYCOON — playtest build 2 — FEEDBACK
+==========================================================
+Answer in your own words. Short answers are fine. Wrong
+answers do not exist — your honest reaction IS the data.
+If typing is a chore, send voice notes covering the same
+questions.
+
+----------------------------------------------------------
+ 0. THE BASICS
+----------------------------------------------------------
+Your name (or nickname):
+
+Device (e.g. Pixel 8 / iPhone 13 / Windows laptop):
+
+Browser (Chrome, Safari, ...):
+
+How long did you play?  Session 1: ____ min
+                        Session 2 (next day)?  yes / no
+
+----------------------------------------------------------
+ 1. QUICK SCORES  (circle or write a number)
+----------------------------------------------------------
+a) In the first 30 seconds I understood what to do:
+      1 (lost)  2  3  4  5 (instantly clear)
+
+b) The look of the game:
+      1 (ugly/generic)  2  3  4  5 (distinctive, appealing)
+
+c) Text and buttons were easy to read and hit:
+      1 (struggled)  2  3  4  5 (effortless)
+
+d) Sound and music:
+      1 (annoying/off)  2  3  4  5 (added a lot)
+
+e) While playing, I wanted to keep going:
+      1 (bored fast)  2  3  4  5 (hard to stop)
+
+f) I would open this game again tomorrow:
+      1 (no way) ... 10 (definitely, I'd miss it)
+
+----------------------------------------------------------
+ 2. THE FIRST MINUTES
+----------------------------------------------------------
+a) In your own words, what did you think the game WAS in
+   the first minute? (Tycoon? Puzzle? Something else?)
+
+b) What was the first thing that confused you, if anything?
+
+c) Did you notice the little coaching hints? Too many,
+   too few, or about right?
+
+----------------------------------------------------------
+ 3. THE CORE LOOP (tap to build, drag matching machines
+    together to merge, earn credits)
+----------------------------------------------------------
+a) Did merging feel satisfying? What made it satisfying
+   or not? (the sound? the numbers? the animations?)
+
+b) Did you ever feel stuck with nowhere to go? Where?
+
+c) Was there ever a moment you thought "I don't need to
+   watch this, it plays itself"? When?
+
+----------------------------------------------------------
+ 4. THE BUSINESSES (the game keeps changing what it is)
+----------------------------------------------------------
+You can own several businesses over time: the Oreworks,
+the Grand Bazaar (sell to traders), the Drydock (send
+freighters), the Starlight Resort (host guests), the Fuel
+Refinery (crack machines into fuel), the Arcology Gardens
+(grow and harvest crops).
+
+a) Which ones did you reach?
+
+b) Which was the MOST fun, and why?
+
+c) Which was the least fun or most confusing?
+
+d) When the station transformed into a new business, was
+   that moment clear and exciting, or did it feel like
+   something broke / you lost your stuff?
+
+----------------------------------------------------------
+ 5. COMING BACK
+----------------------------------------------------------
+a) Did you notice the golden DAILY CONTRACT ticket (a
+   special ticket that waits all day)?
+   yes / no — and did you tap it?
+
+b) Did you see the streak flame icon (top corner) or the
+   streak panel? Did it make you want to come back?
+
+c) If you played on a second day: what did the game do to
+   welcome you back? Did it work on you?
+
+d) Something happens every few minutes (rush hours, golden
+   traders). Did you notice these events? Did they matter?
+
+e) THE MUSIC: did you notice it changing between businesses?
+   Did it fit the mood? Too loud / too quiet / just right?
+   Would you mute it? (Be honest — muted music is a verdict.)
+
+----------------------------------------------------------
+ 6. THE BIG ONES
+----------------------------------------------------------
+a) What was the single best moment in your playthrough?
+
+b) What was the single worst or most annoying moment?
+
+c) If you could change ONE thing, what would it be?
+
+d) Is there any game this reminded you of? (That helps us
+   more than you know.)
+
+e) Would you recommend it to a friend? What would you say?
+
+----------------------------------------------------------
+ 7. BUGS (a bug in a playtest is a gift)
+----------------------------------------------------------
+For each one: what you did → what happened → where/when.
+Screenshots or screen recordings are even better.
+
+1)
+2)
+3)
+
+----------------------------------------------------------
+Anything else you want the developer to know:
+----------------------------------------------------------
+
+
+==========================================================
+Thank you! Send this file (or your notes/voice memo) back
+to whoever gave you the game. — playtest build 2, 2026-11-02
+==========================================================

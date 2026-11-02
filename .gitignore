@@ -1,0 +1,20 @@
+# playtest inputs & binaries (regenerable)
+uploads/
+*.zip
+playtest/*.html
+# process documents stay out of the public game repo for now (see IDEA_LOG; reversible)
+MASTER_PROMPT_V2.md
+IDEA_LOG.md
+V1_AUTOPSY.md
+PORTAL_ACCEPTANCE_GATE.md
+astro/
+# caches
+node_modules/
+__pycache__/
+# my scratch/diagnostic files, not part of the deliverable
+station-tycoon/_check.js
+station-tycoon/*.bak
+station-tycoon/fit.js
+station-tycoon/fit2.js
+station-tycoon/observe.js
+README.md

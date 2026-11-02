@@ -1,0 +1,91 @@
+==========================================================
+ STATION TYCOON — playtest build 2  (November 2, 2026)
+==========================================================
+
+NEW IN BUILD 2: the full producer score — real arranged music
+that changes with every business. Tell us what you think of it!
+
+Thank you for playing! This is an early test version of a
+mobile web game that will be published on YouTube Playables.
+Nothing installs. Nothing costs. There are no ads in this
+build. Your only job is to play honestly and tell us what
+you think — the good, the bad and the confusing.
+
+----------------------------------------------------------
+ HOW TO OPEN THE GAME
+----------------------------------------------------------
+The game is the file called:
+
+    Station Tycoon.html
+
+» On a computer (Windows / Mac):
+  Double-click that file. It opens in your web browser.
+  If it opens in the wrong program, right-click → Open
+  with → Chrome (or Edge / Firefox / Safari).
+
+» On an Android phone or tablet:
+  1. Unzip this package (long-press the zip → Extract,
+     or use the Files app).
+  2. Tap "Station Tycoon.html" and choose Chrome.
+
+» On an iPhone or iPad:
+  Local files are awkward on iOS. If the file does not open
+  in Safari, ask the person who sent you the game for the
+  web link version instead — it plays identically.
+
+TIP: A phone in portrait (held upright) is the intended
+experience. A computer works too — the game rearranges
+itself for wide screens. Turn your SOUND ON; the music and
+effects are part of what we are testing.
+
+----------------------------------------------------------
+ HOW LONG TO PLAY
+----------------------------------------------------------
+» Session 1 (today): play at least 10–15 minutes. The game
+  has a beginning, a completion moment, and then it keeps
+  going — do not stop at the first "well, that looks like
+  the end" screen. See what happens if you keep tapping.
+
+» Session 2 (tomorrow, if you can): open the game again the
+  next day. There is a once-a-day golden contract and a
+  daily streak — we very much want to know whether you
+  remembered it, wanted it, or forgot it entirely.
+
+Your progress saves itself automatically, as long as you
+reopen the game the same way, in the same browser.
+
+----------------------------------------------------------
+ WHAT WE WANT YOU TO NOTICE (do not study it — just play)
+----------------------------------------------------------
+Play the way you would play anything: no instructions, no
+thinking out loud needed. Afterwards, the honest answers to
+these are gold to us:
+
+  • Did you understand what to do in the first 30 seconds
+    WITHOUT reading anything?
+  • Did you ever sit there not knowing what to tap?
+  • Did anything look broken, ugly, too small, or unclear?
+  • Did the sound work? Did it annoy you or help you?
+  • What made you want to keep playing? What made you want
+    to stop?
+  • Would you open it again tomorrow? Honestly.
+
+Then fill in FEEDBACK.txt (in this same folder) — it takes
+about 5 minutes. If typing is a chore, voice notes or a
+phone call with the same answers are just as welcome; just
+mention "playtest build 1" so we know which version you
+played.
+
+----------------------------------------------------------
+ IF SOMETHING BREAKS
+----------------------------------------------------------
+Write down (or screenshot / screen-record):
+  1. what you were doing,
+  2. what happened instead,
+  3. your device and browser.
+Bugs are not an inconvenience — in a playtest, a bug is a
+gift.
+
+Thanks again. Mean feedback is kind feedback; we would
+rather hear it from you now than from a million strangers
+later.
